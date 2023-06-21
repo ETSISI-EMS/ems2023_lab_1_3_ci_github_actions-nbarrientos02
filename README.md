@@ -1,3 +1,4 @@
+[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-nbarrientos02/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-nbarrientos02/actions/workflows/main.yml)
 
 # Pipeline de Integración Continua con GitHub Actions
 
